@@ -18,11 +18,9 @@ Le bot s’appuie sur :
   - Fonction d’évaluation du plateau pour guider l’IA
 
 # Installation & lancement
-  1. Cloner le projet
-    - git clone https://github.com/mon-projet/puissance4-bot.git
-     cd puissance4-bot
+  1. Cloner le projet : **git clone https://github.com/mon-projet/puissance4-bot.git** puis **cd puissance4-bot**
 
   3. Lancer une partie
-     python3 puissance4_gui.py
+     **python3 puissance4_gui.py**
 
-ou : Lancer puissance4.exe
+ou : Lancer **puissance4.exe**
