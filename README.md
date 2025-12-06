@@ -20,9 +20,9 @@ Le bot s’appuie sur :
 # Installation & lancement
   1. Cloner le projet
     - git clone https://github.com/mon-projet/puissance4-bot.git
-    - cd puissance4-bot
+     cd puissance4-bot
 
-  2. Lancer une partie
-    - python3 puissance4_gui.py
+  3. Lancer une partie
+     python3 puissance4_gui.py
 
 ou : Lancer puissance4.exe
